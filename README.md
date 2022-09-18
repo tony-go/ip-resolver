@@ -13,7 +13,7 @@ cargo run -q -- <domain> <dns-server>
 | Args        | Required| Default value |
 | ----------- | --------| ------------- |
 | `domain`    | ✅      |     x         |
-| `dns-server`| ✅      | "1.1.1.1"     |
+| `dns-server`| ❌      | "1.1.1.1"     |
 
 ## Example
 
