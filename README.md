@@ -4,6 +4,8 @@ Basic DNS resolver written in the context of _"Rust In Action"_ book.
 
 It could output one or more addresses. Default DNS server is "1.1.1.1" (Cloudfare), but you can pass a different one with an option.
 
+![](demo.gif)
+
 ## Usage
 
 ```bash
